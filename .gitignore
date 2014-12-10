@@ -26,3 +26,17 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+#Mac OS X
+.DS_Store
+
+#Others
+build/
+bower_components
+test/test_bundle.js
+bundle.js
+**/*.sw?
+/public
+*.mp3
+*.ogg
+*.wav

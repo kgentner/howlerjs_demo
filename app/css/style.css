@@ -1,0 +1,14 @@
+.pure-button {
+  font-size: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+img {
+  height:auto;
+  width:auto;
+  max-width:600px;
+  max-height:600px;
+}
