@@ -37,6 +37,3 @@ test/test_bundle.js
 bundle.js
 **/*.sw?
 /public
-*.mp3
-*.ogg
-*.wav

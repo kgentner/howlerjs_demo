@@ -3,6 +3,7 @@ var $ = require('jquery');
 require('howler');
 
 var djjff = new Howl({
+//hidden track from DJ Jester the Filipino Fist:
   urls: ['./assets/sounds/DJJFF_hiddentrack.mp3'],
   volume: 0.5
 });
